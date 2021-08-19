@@ -1,0 +1,38 @@
+div#dashboard {
+    width: 100%;
+    max-width: 930px;
+    margin: 20px auto;
+    padding:  0 30px;
+}
+div#dashboard p {
+    margin-bottom: 8px;
+}
+
+div#dashboard .user-info {
+    display: flex;
+    height: 30px;
+    align-items: center;
+    margin-bottom: 10px;
+}
+
+div#dashboard .user-info a {
+    margin-left: 10px;
+    margin-bottom: 10px;
+    padding: 8px;
+    border-radius: 4px;
+    font-size: 20px;
+    background-color: #1eaf19;
+    color: #FFF;
+    text-decoration: none;
+}
+div#dashboard button {
+    width: 90px;
+    height: 25px;
+    border: none;
+    border-radius: 2px;
+    outline: none;
+    background-color: #ec1f1f;
+    color: #FFF;
+    font-weight: bold;
+    font-size: 15px;
+}
